@@ -1,0 +1,174 @@
+{
+    "workbench.colorTheme": "Monokai",
+    "workbench.editorAssociations": {
+        "*.exe": "default"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "explorer.confirmDelete": false,
+    "python.defaultInterpreterPath": "C:\\Python312\\python.exe",
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "editor.unicodeHighlight.invisibleCharacters": true,
+    "editor.unicodeHighlight.ambiguousCharacters": true,
+    "editor.minimap.size": "fill",
+    "editor.minimap.showSlider": "always",
+    "editor.formatOnSave": true,
+    "editor.fontFamily": "Monocraft, JetBrains Mono",
+    "files.autoSave": "afterDelay",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.accessibilitySupport": "off",
+    "editor.aiStats.enabled": true,
+    "editor.allowVariableFontsInAccessibilityMode": true,
+    "editor.autoIndentOnPaste": true,
+    "editor.experimental.preferTreeSitter.css": true,
+    "editor.experimental.preferTreeSitter.ini": true,
+    "editor.experimental.preferTreeSitter.typescript": true,
+    "editor.experimental.treeSitterTelemetry": true,
+    "accessibility.signals.format": {
+        "sound": "always"
+    },
+    "html.format.indentInnerHtml": true,
+    "html.format.indentHandlebars": true,
+    "html.format.templating": true,
+    "html.trace.server": "messages",
+    "intelephense.codeLens.usages.enable": true,
+    "intelephense.codeLens.references.enable": true,
+    "intelephense.codeLens.parent.enable": true,
+    "intelephense.codeLens.overrides.enable": true,
+    "intelephense.codeLens.implementations.enable": true,
+    "intelephense.compatibility.preferPsalmPhpstanPrefixedAnnotations": true,
+    "intelephense.completion.fullyQualifyGlobalConstantsAndFunctions": true,
+    "json.format.keepLines": true,
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "css": true
+    },
+    "editor.formatOnPaste": true,
+    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingComments": "never",
+    "editor.autoClosingQuotes": "always",
+    "editor.autoSurround": "quotes",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.codeLensFontSize": 12,
+    "editor.emptySelectionClipboard": false,
+    "editor.experimental.preferTreeSitter.regex": true,
+    "editor.guides.bracketPairs": "active",
+    "editor.guides.bracketPairsHorizontal": true,
+    "editor.inlayHints.padding": true,
+    "editor.lightbulb.enabled": "on",
+    "editor.linkedEditing": true,
+    "editor.multiCursorLimit": 10,
+    "editor.multiCursorPaste": "full",
+    "editor.occurrencesHighlight": "multiFile",
+    "editor.scrollbar.ignoreHorizontalScrollbarInContentHeight": true,
+    "diffEditor.codeLens": true,
+    "editor.formatOnType": true,
+    "application.experimental.rendererProfiling": true,
+    "editor.fontSize": 16,
+    "diffEditor.experimental.showMoves": true,
+    "diffEditor.experimental.useTrueInlineView": true,
+    "diffEditor.hideUnchangedRegions.enabled": true,
+    "accessibility.signals.chatRequestSent": {
+        "sound": "on"
+    },
+    "accessibility.signals.chatEditModifiedFile": {
+        "sound": "on"
+    },
+    "accessibility.signals.chatResponseReceived": {
+        "sound": "on"
+    },
+    "accessibility.signals.chatUserActionRequired": {
+        "sound": "on"
+    },
+    "accessibility.signals.clear": {
+        "sound": "on"
+    },
+    "accessibility.signals.codeActionApplied": {
+        "sound": "on"
+    },
+    "accessibility.signals.codeActionTriggered": {
+        "sound": "on"
+    },
+    "accessibility.signals.diffLineDeleted": {
+        "sound": "on"
+    },
+    "accessibility.signals.diffLineInserted": {
+        "sound": "on"
+    },
+    "accessibility.signals.diffLineModified": {
+        "sound": "on"
+    },
+    "accessibility.signals.editsKept": {
+        "sound": "on"
+    },
+    "accessibility.signals.editsUndone": {
+        "sound": "on"
+    },
+    "accessibility.signals.lineHasBreakpoint": {
+        "sound": "on"
+    },
+    "accessibility.signals.voiceRecordingStopped": {
+        "sound": "on"
+    },
+    "accessibility.signals.terminalQuickFix": {
+        "sound": "on"
+    },
+    "accessibility.signals.terminalCommandSucceeded": {
+        "sound": "on"
+    },
+    "accessibility.signals.terminalCommandFailed": {
+        "sound": "on"
+    },
+    "accessibility.signals.terminalBell": {
+        "sound": "on"
+    },
+    "accessibility.signals.taskFailed": {
+        "sound": "on"
+    },
+    "accessibility.signals.taskCompleted": {
+        "sound": "on"
+    },
+    "accessibility.signals.save": {
+        "sound": "userGesture"
+    },
+    "accessibility.signals.lineHasError": {
+        "sound": "on"
+    },
+    "accessibility.signals.lineHasFoldedArea": {
+        "sound": "on"
+    },
+    "accessibility.signals.lineHasInlineSuggestion": {
+        "sound": "on"
+    },
+    "accessibility.signals.lineHasWarning": {
+        "sound": "on"
+    },
+    "accessibility.signals.nextEditSuggestion": {
+        "sound": "on"
+    },
+    "accessibility.signals.noInlayHints": {
+        "sound": "on"
+    },
+    "accessibility.signals.notebookCellCompleted": {
+        "sound": "on"
+    },
+    "accessibility.signals.notebookCellFailed": {
+        "sound": "on"
+    },
+    "accessibility.signals.onDebugBreak": {
+        "sound": "on"
+    },
+    "accessibility.signals.positionHasError": {
+        "sound": "on"
+    },
+    "accessibility.signals.positionHasWarning": {
+        "sound": "on"
+    },
+    "accessibility.signals.progress": {
+        "sound": "on"
+    },
+    "editor.mouseWheelZoom": true,
+}
