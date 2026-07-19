@@ -1,11 +1,13 @@
 {
     "workbench.colorTheme": "Monokai",
     "workbench.editorAssociations": {
-        "*.exe": "default"
+        "*.copilotmd": "vscode.markdown.preview.editor",
+        "*.exe": "default",
+        "*.db": "default"
     },
     "security.workspace.trust.untrustedFiles": "open",
     "explorer.confirmDelete": false,
-    "python.defaultInterpreterPath": "C:\\Users\\Майор Вулфи\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+    "python.defaultInterpreterPath": "",
     "github.copilot.nextEditSuggestions.enabled": true,
     "editor.unicodeHighlight.invisibleCharacters": false,
     "editor.unicodeHighlight.ambiguousCharacters": true,
@@ -40,9 +42,9 @@
         "plaintext": true
     },
     "editor.formatOnPaste": true,
-    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingBrackets": "languageDefined",
     "editor.autoClosingComments": "never",
-    "editor.autoClosingQuotes": "always",
+    "editor.autoClosingQuotes": "languageDefined",
     "editor.autoSurround": "quotes",
     "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
     "editor.codeLensFontSize": 12,
@@ -190,12 +192,6 @@
     },
     "chat.viewSessions.orientation": "stacked",
     "editor.unicodeHighlight.nonBasicASCII": false,
-    "chat.tools.terminal.autoApprove": {
-        "/^python -m py_compile \"c:\\\\Users\\\\Майор Вулфи\\\\Desktop\\\\архивы\\\\Анкета бот\\\\main\\.py\"$/": {
-            "approve": true,
-            "matchCommandLine": true
-        }
-    },
     "liveshare.alwaysFollowHost": true,
     "chat.agent.maxRequests": 100,
     "lmStudioCopilot.allowFileModifications": true,
@@ -208,7 +204,7 @@
     "lmStudioCopilot.autoScrollLogs": true,
     "lmStudioCopilot.timestampsLogs": true,
     "lmStudioCopilot.serverUrl": "http://localhost:1234",
-    "lmStudioCopilot.model": "google/gemma-4-e2b",
+    "lmStudioCopilot.model": "",
     "lmStudioCopilot.modelIndex": 0,
     "lmStudioCopilot.language": "py",
     "lmStudioCopilot.languageIndex": 2,
@@ -217,5 +213,25 @@
     "lmStudioCopilot.intent": "analyze",
     "lmStudioCopilot.intentIndex": 0,
     "lldb.suppressUpdateNotifications": true,
-    "editor.inlineSuggest.edits.showCollapsed": true
+    "editor.inlineSuggest.edits.showCollapsed": true,
+    "chatgpt.localeOverride": "ru-RU",
+    "chatgpt.followUpQueueMode": "steer",
+    "lmstudio-copilot.serverUrl": "http://127.0.0.1:1234",
+    "lmstudio-copilot.reasoningEffort": "high",
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "dart.flutterSdkPath": "",
+    "editor.inlineSuggest.enabled": true,
+    "koda.enableKodaTab": false,
+    "qwenCopilot.reasoning.preserveHistory": true,
+    "qwenCopilot.reasoning.showSummary": true,
+    "koda.disableQuickFix": true,
+    "update.showReleaseNotes": false,
+    "koda.enableTabAutocomplete": false,
+    "koda.enableNextEditPredictions": true,
+    "chat.byokUtilityModelDefault": "mainAgent",
+    "chat.utilityModel": "",
+    "chat.utilitySmallModel": "",
+    "explorer.confirmPasteNative": false
 }
